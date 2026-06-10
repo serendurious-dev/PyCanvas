@@ -3,7 +3,7 @@
 > A keyboard-first drawing app built in Python, where movement, curves, colour,
 > and form all come from code and control instead of a mouse.
 
-This is my final project built around Python's turtle graphics system, but I do
+This is my project built around Python's turtle graphics system, but I do
 not think "Turtle Painter" is the right identity for it anymore. The project is
 really a small drawing environment: a live canvas, a movement system, a visual
 HUD, a help layer, shape-building controls, fill mode, and a little built-in art
